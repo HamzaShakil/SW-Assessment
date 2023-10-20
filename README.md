@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SW-Assessment
 ## Overview of the project
 I have implemeneted selenium as automation framework in java language which include the POM and design pattern and BDD framwork to define the testcase and description. I also have implemented the allure report for reporting you can run and view the report Once the test run cycle is complete it generate the allure results following are the instruction to generate reports
@@ -39,3 +40,6 @@ Following are the instruction to run this project
       
       
     
+=======
+# SW-Assessment
+>>>>>>> main
