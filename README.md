@@ -1,10 +1,9 @@
-<<<<<<< HEAD
 # SW-Assessment
 ## Overview of the project
 I have implemeneted selenium as automation framework in java language which include the POM and design pattern and BDD framwork to define the testcase and description. I also have implemented the allure report for reporting you can run and view the report Once the test run cycle is complete it generate the allure results following are the instruction to generate reports
   - Open the cmd as an administration and run the report using the allure server allure-results
   - Now you can view the report
-  - You can view the download the demo video from this link (https://we.tl/t-ZaRFQdNvib)
+  - You can view the download the demo video from this link (https://we.tl/t-FJ9auwZSv9)
 - I have implement the following test cases
   - Login 
     - Login with valid credentials
@@ -36,10 +35,3 @@ Following are the instruction to run this project
     - Cucumber for Java
     - Gherkin
  - Once all the errors resolve run the test runner file test>jave>Runners>TestRunner by right click on it and select "Run TestRunner"
-
-      
-      
-    
-=======
-# SW-Assessment
->>>>>>> main
