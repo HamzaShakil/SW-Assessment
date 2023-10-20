@@ -24,7 +24,7 @@ You need the following tools
 Following are the instruction to run this project
   - Create a folder on the disk
   - open the git bash
-  - Clone the project using git bash and run the command git clone https://github.com/HamzaShakil/Small-world-Assessment.git
+  - Clone the project using git bash and run the command git clone https://github.com/HamzaShakil/SW-Assessment.git
   - Open the above project using IntelliJa (Please note once you clone it open the project in IntelliJ from inside the folder)
   -  Now you need to configure the SDK
     - Open File>Setting>Project Structurer
