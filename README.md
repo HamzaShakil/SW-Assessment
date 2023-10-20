@@ -36,9 +36,3 @@ Following are the instruction to run this project
     - Gherkin
  - Once all the errors resolve run the test runner file test>jave>Runners>TestRunner by right click on it and select "Run TestRunner"
 
-      
-      
-    
-=======
-# SW-Assessment
->>>>>>> main
