@@ -1,10 +1,10 @@
 # SW-Assessment
 ## Overview of the project
-I have implemeneted selenium as automation framework in java language which include the POM and design pattern and BDD framwork to define the testcase and description. I also have implemented the allure report for reporting you can run and view the report Once the test run cycle is complete it generate the allure results following are the instruction to generate reports
+I have implemented selenium as automation framework in java language which include the POM and design pattern and BDD framework to define the testcase and description. I also have implemented the allure report for reporting you can run and view the report Once the test run cycle is complete it generates the allure results following are the instruction to generate reports
   - Open the cmd as an administration and run the report using the allure server allure-results
   - Now you can view the report
   - You can view the download the demo video from this link (https://we.tl/t-FJ9auwZSv9)
-- I have implement the following test cases
+- I have implemented the following test cases
   - Login 
     - Login with valid credentials
     - Login with Invalid username
@@ -27,11 +27,12 @@ Following are the instruction to run this project
   - Clone the project using git bash and run the command git clone https://github.com/HamzaShakil/SW-Assessment.git
   - Open the above project using IntelliJa (Please note once you clone it open the project in IntelliJ from inside the folder)
   -  Now you need to configure the SDK
-    - Open File>Setting>Project Structurer
+    - Open File>Setting>Project Structure
     - Click edit in SDK
     - Select the path where you install the JDK
   - Now go to the POM.xml file and install the dependencies by clicking the "M" with the refresh icon
-  -  Install the following plugins using Intellija
+  -  Install the following plugins using Intellij
     - Cucumber for Java
     - Gherkin
- - Once all the errors resolve run the test runner file test>jave>Runners>TestRunner by right click on it and select "Run TestRunner"
+ - Once all the errors resolve run the test runner file test>java>Runners>TestRunner by right click on it and select "Run TestRunner"
+
